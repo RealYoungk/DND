@@ -1,13 +1,10 @@
 # 여행경로 추천 서비스
 ## FrontEnd
-### React.js
+### `React.js`
 ## BackEnd
-### Node.js
+### `Node.js`
 
 
-
-
-# ///////////////////////////////////////
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
